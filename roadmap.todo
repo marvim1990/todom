@@ -1,4 +1,4 @@
-☐ Criar um arquivo assets/js/index.js
+☐ Criar um arquivo assets/js/index.js 
 ☐ Criar nesse arquivo um array (tarefas)
   Esse array deve conter objetos literais com os campos
     . id: numérico
